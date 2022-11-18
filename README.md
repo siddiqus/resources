@@ -13,6 +13,7 @@ A collection of useful links
 
 ## Learning Path
 - [Roadmap.sh: Developer Learning Roadmaps](https://roadmap.sh/)
+- [Architecture notes](https://architecturenotes.co/)
 
 ## Graphic Design
 - [Gravit: Online vector drawing tool](https://designer.gravit.io/)
