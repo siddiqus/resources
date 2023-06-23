@@ -10,7 +10,7 @@ A collection of useful links
 - [JSON Formatting online](https://jsonformatter.curiousconcept.com/)
 - [Online character counter](https://www.charactercountonline.com/)
 - [onlinetsvtools: TSV to JSON converter](https://onlinetsvtools.com/convert-tsv-to-json)
-- [AWS powertools]: https://github.com/aws-powertools
+- [AWS powertools](https://github.com/aws-powertools)
 
 ## Learning Path
 - [Roadmap.sh: Developer Learning Roadmaps](https://roadmap.sh/)
