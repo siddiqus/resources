@@ -11,6 +11,7 @@ A collection of useful links
 - [Online character counter](https://www.charactercountonline.com/)
 - [onlinetsvtools: TSV to JSON converter](https://onlinetsvtools.com/convert-tsv-to-json)
 - [AWS powertools](https://github.com/aws-powertools)
+- [Caddy Server: bootstrapped local app domain](https://caddyserver.com/)
 
 ## Learning Path
 - [Roadmap.sh: Developer Learning Roadmaps](https://roadmap.sh/)
